@@ -58,7 +58,6 @@ public class Restaurant {
         }
     }
 
-    //Создание задачи
     private void addDishes() {
         // Функция в которой добавляем блюда в меню
         System.out.println("Наименование блюда:");
